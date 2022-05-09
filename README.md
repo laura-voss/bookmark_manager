@@ -19,5 +19,6 @@ list      →   Array of bookmarks
 ## Domain Model
 --------
 ![Bookmark Manager domain model]
+
  (./public/images/bookmark_manager_1.png)
  
