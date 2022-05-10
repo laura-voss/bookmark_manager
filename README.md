@@ -6,6 +6,10 @@
 As a web user
 so that I can quickly access my favourite web sites
 I would like to be able to see a list of bookmarks
+
+As a web user
+so that I can save a website to access in the future
+I would like to be able to add it to my bookmarks
 ```
 
 Bookmark → Class
